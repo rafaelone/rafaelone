@@ -85,7 +85,7 @@ Além de minhas funções de desenvolvimento, desempenho também o papel de Líd
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
+    src="https://profile-counter.glitch.me/rafaelone/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
