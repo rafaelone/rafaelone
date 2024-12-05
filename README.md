@@ -43,14 +43,14 @@ Além de minhas funções de desenvolvimento, desempenho também o papel de Líd
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=danieldribeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=rafaelone&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldribeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelone&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
@@ -74,7 +74,7 @@ Além de minhas funções de desenvolvimento, desempenho também o papel de Líd
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=danieldribeiro&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=rafaelone&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
