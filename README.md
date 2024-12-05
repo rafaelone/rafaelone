@@ -29,7 +29,6 @@ Além de minhas funções de desenvolvimento, desempenho também o papel de Líd
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-35495E?style=for-the-badge&logo=sql&)
 ![MySQL](https://img.shields.io/badge/My%20SQL-3c3c3c?style=for-the-badge&logo=mysql&)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
