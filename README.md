@@ -14,20 +14,14 @@ Além de minhas funções de desenvolvimento, desempenho também o papel de Líd
 </p>
 
 </br>
-</br>
-</br>
-</br>
+
 
 <h2 align="left">
  Linguagens:
 </h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-35495E?style=for-the-badge&logo=tailwind-css&)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=next-js&)
@@ -40,15 +34,9 @@ Além de minhas funções de desenvolvimento, desempenho também o papel de Líd
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<a href="https://www.linkedin.com/in/daniel-diego-ribeiro/" title="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-sergio-982951103/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<a href="https://wa.me/+5554984237101" title="WhatsApp" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
-<a href="https://www.instagram.com/ribeiroo.dani/" title="Instagram" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<br>
 <br>
 <table>
   <tr>
