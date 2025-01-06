@@ -62,14 +62,7 @@ Além de minhas funções de desenvolvimento, desempenho também o papel de Líd
         alt="Github stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelone&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
+    
   </tr>
 </table>
 
