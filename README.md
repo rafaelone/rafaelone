@@ -66,7 +66,7 @@ Além de minhas funções de desenvolvimento, desempenho também o papel de Líd
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=danieldribeiro&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelone&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
